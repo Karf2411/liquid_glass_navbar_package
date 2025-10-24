@@ -2,7 +2,7 @@
 
 Here’s how the default **Liquid Glass NavBar** looks 👇
 
-![Nav Bar Demo](https://raw.githubusercontent.com/Karf2411/liquid_glass_navbar/e756516a23edc934033bbb767e7012e4d91a2589/assets/2025-10-2417-31-111-ezgif.com-video-to-gif-converter.gif)
+![Nav Bar Demo](https://raw.githubusercontent.com/Karf2411/liquid_glass_navbar_package/refs/heads/master/assets/2025-10-2417-31-111-ezgif.com-video-to-gif-converter.gif)
 
 # 🧊 liquid_glass_navbar
 
